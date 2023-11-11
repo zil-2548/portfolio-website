@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(21, 22, 43);
+}
+.img img {
+  height: 250px;
+  width: 250px;
+  margin-left: 650px;
+  margin-top: 20px;
+  border: 2px solid #62c8cb;
+  border-radius: 50%;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 3rem;
+  color: #62c8cb;
+}
+h3 {
+  text-align: center;
+  margin-top: 50px;
+  color: #62c8cb;
+  margin-right: 150px;
+  margin-left: 150px;
+}

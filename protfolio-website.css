@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(21, 22, 43);
+  color: white;
+}
+.logodiv img {
+  height: 50px;
+  width: 50px;
+  border: 2px solid rgb(25, 26, 59);
+  border-radius: 50%;
+  margin-left: 100px;
+}
+#colorzil {
+  color: #62c8cb;
+}
+.logodiv ul {
+  list-style: none;
+}
+.logodiv {
+  display: flex;
+  justify-content: flex-start;
+}
+.logodiv ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.lilist {
+  margin: 0 90px;
+  margin-top: 10px;
+  padding: 0 50px;
+  list-style: none;
+}
+.lilist a {
+  text-decoration: none;
+}
+.firstsection {
+  display: flex;
+  justify-content: space-around;
+}
+.left {
+  height: 350px;
+  width: 550px;
+  margin-top: 180px;
+}
+.left h3 {
+  font-size: 2.5rem;
+}
+.left h2 {
+  font-size: 3.5rem;
+  margin-top: 3px;
+}
+.left p {
+  font-size: 1.5rem;
+  margin-top: 3px;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+}
+.imglogo {
+  
+  height: 350px;
+  width: 350px;
+  margin-top: 150px;
+ 
+}
+#element {
+  font-size: 2rem;
+  color: #62c8cb;
+ 
+}
+.btn {
+  display: block;
+  margin-top: 15px;
+  
+  background-color: #62c8cb;
+  height: 50px;
+  width: 120px;
+  margin-top: 50px;
+  box-shadow: 4px 3px 10px #62c8cb;
+  
+}
+.socialmediaicons h2 {
+  text-align: center;
+  margin-top: 130px;
+  font-size: 3rem;
+  color: #62c8cb;
+}
+.logoes {
+  display: flex;
+  justify-content: center;
+}
+.instalogo {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+.twitterlogo {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+.linkedinlogo {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+.socialmedialogo{
+  height: 45px;
+  width: 44px;
+}
